@@ -9,12 +9,12 @@ If you want to install minecraft for python you are going to need some tools:
 ## Installing Python:
 To install python you need to download the installer from: [https://www.python.org/](https://www.python.org/)
 
-![PICTURE OF PYTHON WEBSITE]()
+![PICTURE OF PYTHON WEBSITE](https://github.com/ScottHarwoodTech/Installing-MinecraftPy/blob/master/Images/PythonWebsite.PNG)
 
 To install python we need to select the correct version for your computer.
 Click on the `Downloads` button and you will be taken to a webpage that will select the correct version for you.
 Click the `Download Python 3.6.5` button and it will automatically download the correct version for your operating system.
-![PICTURE OF PYTHON DOWNLOADS PAGE]
+![PICTURE OF PYTHON DOWNLOADS PAGE](https://github.com/ScottHarwoodTech/Installing-MinecraftPy/blob/master/Images/PythonDownloadButton.PNG)
 You should be able to click through and agree to any agreements that are presented. If at any point you are asked if you would like to add the `Python PATH variable` click `YES`.
 Once the installer has downloaded you can double click on it and the installer will open.
 
@@ -29,11 +29,11 @@ You may have used a module in python such as `random` or `time` the only differe
 To install `Pyglet` we need to open up a command prompt so `press the windows key (the one in the bottom left of the keyboard) and type cmd then open command prompt`
 now a window should pop up
 
-![image of cmd]()
+![image of cmd](https://github.com/ScottHarwoodTech/Installing-MinecraftPy/blob/master/Images/CMDopenInDir.PNG)
 
 Now type `python -m pip install pyglet` and press enter the computer will then collect the files for pyglet and install them to python for you.
 
-![image of pyglet installing]()
+![image of pyglet installing](https://github.com/ScottHarwoodTech/Installing-MinecraftPy/blob/master/Images/InstallingPyglet.PNG)
 
 ---
 ## Installing Visual Studio Code:
@@ -45,13 +45,13 @@ We are going to install `Visual Studio Code` because it is a useful tool that is
 First you are going to need to download the installer from [https://code.visualstudio.com/](https://code.visualstudio.com/) there will be a large button
 that says `Download for Windows` or `Download for mac`
 
-![Image of Download button]()
+![Image of Download button](https://github.com/ScottHarwoodTech/Installing-MinecraftPy/blob/master/Images/VSCDL.PNG)
 
 Click that link and allow the installer to download.
 Next open the installer and just keep clicking next, it will install in the correct directory, be sure to agree to any agreements that are provided.
 
 After you have finished installing Visual Studio Code should have opened.
-![picture of visual studio code]()
+![picture of visual studio code](https://github.com/ScottHarwoodTech/Installing-MinecraftPy/blob/master/Images/VSCInstalled.PNG)
 ---
 ## Installing Git `Windows Only`:
 Now we are going to install Git. Git is a piece of `Version Control Software` that programmers use to help them make sure that everyone who is working on a program has the correct version of the code
@@ -59,7 +59,7 @@ Git also allows the programmer to revert any changes that they have made if they
 
 First step in installing Git is to download it from [www.git-scm.com/download](www.git-scm.com/download) you will land on a page that will provide you with a download button
 
-![Image of download button]()
+![Image of download button](https://github.com/ScottHarwoodTech/Installing-MinecraftPy/blob/master/Images/GitDownload.PNG)
 
 Click on that download button and allow the installer to download.
 
@@ -73,7 +73,7 @@ Now we are going to use the Git that we just installed to download the source co
 First we need to decide where we are going to download these files to. I suggest the desktop because it will be easily accessible.
 Now Open that place in the file explorer
 
-![Image of file explorer]()
+![Image of file explorer](https://github.com/ScottHarwoodTech/Installing-MinecraftPy/blob/master/Images/DirOpenInFE.PNG)
 
 In the top bar type `CMD` this will open up a command prompt in the current directory.
 ![IMAGE OF CURRENT DIR]()
@@ -83,8 +83,7 @@ them on your computer.
 
 You should now have a folder called `minecraft` the program files are in there.
 
-![Image of minecraft dir]()
 
 So type `cd minecraft` in the command prompt window you can now type `python main.py` and the python version of Minecraft will open.
 
-![Minecraft running]()
+![Minecraft running](https://github.com/ScottHarwoodTech/Installing-MinecraftPy/blob/master/Images/Python%20running.PNG)
