@@ -68,7 +68,7 @@ Now that the installer has downloaded you can launch it and click through the in
 ---
 ## Downloading the source code for Minecraft:
 
-Now we are going to use the git that we just installed to download the source code for this version of Minecraft.
+Now we are going to use the Git that we just installed to download the source code for this version of Minecraft.
 
 First we need to decide where we are going to download these files to. I suggest the desktop because it will be easily accessible.
 Now Open that place in the file explorer
@@ -86,3 +86,5 @@ You should now have a folder called `minecraft` the program files are in there.
 ![Image of minecraft dir]()
 
 So type `cd minecraft` in the command prompt window you can now type `python main.py` and the python version of Minecraft will open.
+
+![Minecraft running]()
